@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KOZaJury</string>
+    <string name="large_text">The AppBarLayout in this case is the blue view,placed under the
+        collapsing image, it contains a Toolbar,a LinearLayout with title and subtitle and a
+        TabLayout with some tabs.We can manage the behavior of direct childs in an AppbarLayout.</string>
+
+</resources>
